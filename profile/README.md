@@ -16,7 +16,7 @@
   
 - https://github.com/340Lab/severless_benchmark
   
-  Expand the current ServerlessBench
+  Expand the ServerlessBench from IPADS
 
 <!--
 
